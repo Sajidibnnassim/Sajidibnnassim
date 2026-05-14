@@ -19,7 +19,6 @@ I love working with tools that turn data into insights:
 ### 📈 Current Focus
 * 🚀 **Transitioning:** Moving from System Engineering to Data Engineering.
 * 📚 **Learning:** Currently diving deep into Data Engineering concepts.
-* 📁 **Projects:** Check out my latest work: [Insert Link to your Pizza Sales/IPL Dashboard]
 
 ---
 
