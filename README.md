@@ -24,8 +24,10 @@ I love working with tools that turn data into insights:
 ---
 
 ### 🔗 Let's Connect
-* 💼 **LinkedIn:** [linkedin.com/in/shaikhsajid4641](https://www.linkedin.com/in/shaikhsajid4641)
-* 📧 **Email:** sajid.shaikh442025@gmail.com
-* 📱 **Phone:** +91 9881825344
+* 💼 **LinkedIn:** www.linkedin.com/in/shaikhsajid4641
+* 📧 **Email:** Shaikhsajid4641@gmail.com
+* 📱 **Phone:** +91 8888997467
 
-![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajidibnnassim&show_icons=true&theme=radical)
+<a href="https://github.com/Sajidibnnassim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sajidibnnassim&show_icons=true&theme=radical" alt="Sajid's Stats" />
+</a>
