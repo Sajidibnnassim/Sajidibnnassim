@@ -16,6 +16,6 @@ I love working with tools that turn data into insights:
 * **Projects:** Check out my latest work: [Insert Link to your Pizza Sales/IPL Dashboard]
 
 ### 🔗 Let's Connect
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** sajid.shaikh442025@gmail.com
-* **Phone:** +91 9881825344
+* **LinkedIn:** www.linkedin.com/in/shaikhsajid4641
+* **Email:** shaikhsajid4641@gmail.com
+* **Phone:** +91 8888997467
