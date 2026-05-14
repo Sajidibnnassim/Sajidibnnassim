@@ -17,7 +17,5 @@ I love working with tools that turn data into insights:
 
 ### 🔗 Let's Connect
 * **LinkedIn:** www.linkedin.com/in/shaikhsajid4641
-* **Email:** shaikhsajid4641@gmail.com
-* **Phone:** +91 8888997467
-
-![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+* **Email:**    shaikhsajid4641@gmail.com
+* **Phone:**    +91 8888997467
